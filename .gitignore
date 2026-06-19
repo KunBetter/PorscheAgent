@@ -23,5 +23,6 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Vector store data
+# Vector store
+vectorstore/vectorstore
 vectorstore/store.json
